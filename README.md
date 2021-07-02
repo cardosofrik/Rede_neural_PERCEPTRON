@@ -10,11 +10,21 @@ Perceptron  developed in C
 2 - Sigmoide
 
 
-#LINUX:
-
-gcc -o perceptron rede_neural_PERCEPTRON.c -lm
 
 
+
+## Compilar
+
+compilar gcc
+
+```bash 
+  gcc -o perceptron rede_neural_PERCEPTRON.c -lm
+```
+
+
+
+
+![](https://img.shields.io/badge/.%20--informational?style=flat&logo=c&logoColor=blue&color=blue) ![GitHub](https://img.shields.io/badge/licence-GPL%203.0-GREE) 
 
 Info
 
