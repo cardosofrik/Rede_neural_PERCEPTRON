@@ -1,9 +1,8 @@
 rede perceptron
 
 
-Inf : https://www.embarcados.com.br/rede-perceptron-de-uma-unica-camada/
 
-
+  
 Perceptron  developed in C
 
 
@@ -17,3 +16,6 @@ gcc -o perceptron rede_neural_PERCEPTRON.c -lm
 
 
 
+Info
+
+[embarcados.com.br](https://www.embarcados.com.br/rede-perceptron-de-uma-unica-camada/)
